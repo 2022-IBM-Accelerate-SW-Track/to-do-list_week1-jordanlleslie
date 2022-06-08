@@ -7,10 +7,7 @@ export default class About extends Component {
     return (
       <div>
         <p>Design your About me page </p> 
-      </div>
-      
-      
-      <div>
+        <div>
         <div class="split left">
           <div className="centered">
             <img 
@@ -29,6 +26,8 @@ export default class About extends Component {
           </div>
         </div>
       </div>
+      </div>
+     
     )
   }
 }
